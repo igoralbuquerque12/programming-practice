@@ -14,12 +14,12 @@ This repository will includes solutions for various exercises:
 
 ## FOLDER STRUCTURE
 
-- **linked-lists/**: Implementations of singly and doubly linked lists, and related problems.
-- **arrays/**: Array manipulation techniques.
-- **hashmaps/**: Hashmap-based algorithms and problems.
-- **trees/**: Binary trees, binary search trees, tree traversal, etc.
-- **sorting/**: Implementations of common sorting algorithms like QuickSort, MergeSort, etc.
-- **searching/**: Linear search, binary search, etc.
+- **linked-lists**: Implementations of singly and doubly linked lists, and related problems.
+- **arrays**: Array manipulation techniques.
+- **hashmaps**: Hashmap-based algorithms and problems.
+- **trees**: Binary trees, binary search trees, tree traversal, etc.
+- **sorting**: Implementations of common sorting algorithms like QuickSort, MergeSort, etc.
+- **searching**: Linear search, binary search, etc.
 
 ## HOW TO USE
 
@@ -29,4 +29,4 @@ This repository will includes solutions for various exercises:
 
 2. Run a specific file:
    ```bash
-   python ./linked_list.py - *example*
+   python ./linked_list.py
